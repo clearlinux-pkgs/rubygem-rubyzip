@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rubyzip
 Version  : 1.1.7
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/rubyzip-1.1.7.gem
 Source0  : https://rubygems.org/downloads/rubyzip-1.1.7.gem
 Summary  : No detailed summary available
